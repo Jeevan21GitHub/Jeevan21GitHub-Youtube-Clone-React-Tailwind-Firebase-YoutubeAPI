@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98c427cd.css",
+    "main.js": "/static/js/main.2dbaea1f.js",
+    "static/media/yt-logo-white.png": "/static/media/yt-logo-white.ea8339adab41cd54d7ab.png",
+    "index.html": "/index.html",
+    "main.98c427cd.css.map": "/static/css/main.98c427cd.css.map",
+    "main.2dbaea1f.js.map": "/static/js/main.2dbaea1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c427cd.css",
+    "static/js/main.2dbaea1f.js"
+  ]
+}
